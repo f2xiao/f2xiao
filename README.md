@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f2xiao&label=Profile%20views&color=0e75b6&style=flat" alt="f2xiao" /> </p>
 
-I've been learn coding for 3 years. After I completed the Harvard CS50 course , I started learn python and javascript. Now I am specialize in Javascript, React and NodeJS.
+I've been learn coding for 3 years. After I completed the Harvard CS50 course , I started learn python and javascript. Now I am specialize in Javascript, React and NodeJS. My faviourite learning material is:
+
+- <a href="https://fullstackopen.com/" target="_blank" rel="noreferrer">fullstackopen</a>
+- <a href="https://fullstackopen.com/" target="_blank" rel="noreferrer">fullstackopen</a>
 
 - 🌍 I'm based in Waterloo, ON
 - 🖥️ See my portfolio at [f2xiao.github.io](https://f2xiao.github.io)
