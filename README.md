@@ -12,24 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Fangfang
-==================================================================================================================================
 
-Full Stack Engineer
--------------------
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Fangfang
+
+## Full Stack Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f2xiao&label=Profile%20views&color=0e75b6&style=flat" alt="f2xiao" /> </p>
 
 I've been learn coding for 3 years. After I completed the Harvard CS50 course , I started learn python and javascript. Now I am specialize in Javascript, React and NodeJS.
 
-*   🌍  I'm based in Waterloo, ON
-*   🖥️  See my portfolio at [f2xiao.github.io](https://f2xiao.github.io)
-*   ✉️  You can contact me at [fxiao.mecheng@gmail.com](mailto:fxiao.mecheng@gmail.com)
-*   🚀  I'm currently working on [NextWatch](https://next-watch.onrender.com)
-*   🧠  I'm learning Typescript, NextJS
+- 🌍 I'm based in Waterloo, ON
+- 🖥️ See my portfolio at [f2xiao.github.io](https://f2xiao.github.io)
+- ✉️ You can contact me at [fxiao.mecheng@gmail.com](mailto:fxiao.mecheng@gmail.com)
+- 🚀 I'm currently working on [NextWatch](https://next-watch.onrender.com)
+- 🧠 I'm learning Typescript, NextJS
 
 ### Skills
+
 #### Front End
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -50,6 +51,7 @@ I've been learn coding for 3 years. After I completed the Harvard CS50 course , 
 </p>
 
 #### Back End
+
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
@@ -60,11 +62,18 @@ I've been learn coding for 3 years. After I completed the Harvard CS50 course , 
 </p>
 
 #### Others
+
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
 ### Socials
