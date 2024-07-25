@@ -19,16 +19,22 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f2xiao&label=Profile%20views&color=0e75b6&style=flat" alt="f2xiao" /> </p>
 
-I've been learn coding for 3 years. After I completed the Harvard CS50 course , I started learn python and javascript. Now I am specialize in Javascript, React and NodeJS. My faviourite learning material is:
-
-- <a href="https://fullstackopen.com/" target="_blank" rel="noreferrer">fullstackopen</a>
-- <a href="https://fullstackopen.com/" target="_blank" rel="noreferrer">fullstackopen</a>
+I've been learn coding for 3 years. After I completed the Harvard CS50 course , I started learn python and javascript. Now I am specialize in Javascript, React and NodeJS.
 
 - 🌍 I'm based in Waterloo, ON
 - 🖥️ See my portfolio at [f2xiao.github.io](https://f2xiao.github.io)
 - ✉️ You can contact me at [fxiao.mecheng@gmail.com](mailto:fxiao.mecheng@gmail.com)
 - 🚀 I'm currently working on [NextWatch](https://next-watch.onrender.com)
 - 🧠 I'm learning Typescript, NextJS
+
+My faviourite courses are:
+
+- 🖥️ <a href="https://fullstackopen.com/" target="_blank" rel="noreferrer">Fullstackopen</a>
+- 🖥️ <a href="https://sp23.datastructur.es/" target="_blank" rel="noreferrer">CS61B Data Structures</a>
+
+My faviourite learning material is:
+
+- 🖥️ <a href="https://www.w3schools.com/" target="_blank" rel="noreferrer">W3Schools</a>
 
 ### Skills
 
