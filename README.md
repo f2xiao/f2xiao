@@ -27,14 +27,22 @@ I've been learn coding for 3 years. After I completed the Harvard CS50 course , 
 - 🚀 I'm currently working on [NextWatch](https://next-watch.onrender.com)
 - 🧠 I'm learning Typescript, NextJS
 
-My faviourite courses are:
+<div style="display: flex;">
+<div style="flex-basis:50%">
+My favorite courses are:
 
 - 🖥️ <a href="https://fullstackopen.com/" target="_blank" rel="noreferrer">Fullstackopen</a>
 - 🖥️ <a href="https://sp23.datastructur.es/" target="_blank" rel="noreferrer">CS61B Data Structures</a>
 
-My faviourite learning material is:
+</div>
+<div style="flex-basis:50%">
+My favorite learning material is:
 
 - 🖥️ <a href="https://www.w3schools.com/" target="_blank" rel="noreferrer">W3Schools</a>
+- 🖥️ <a href="https://www.freecodecamp.org/" target="_blank" rel="noreferrer">FreeCodeCamp</a>
+
+</div>
+</div>
 
 ### Skills
 
