@@ -28,14 +28,14 @@ I've been learn coding for 3 years. After I completed the Harvard CS50 course , 
 - 🧠 I'm learning Typescript, NextJS
 
 <div style="display: flex;">
-<div style="flex-basis:50%">
+<div style="width:45%">
 My favorite courses are:
 
 - 🖥️ <a href="https://fullstackopen.com/" target="_blank" rel="noreferrer">Fullstackopen</a>
 - 🖥️ <a href="https://sp23.datastructur.es/" target="_blank" rel="noreferrer">CS61B Data Structures</a>
 
 </div>
-<div style="flex-basis:50%">
+<div style="width:45%">
 My favorite learning material is:
 
 - 🖥️ <a href="https://www.w3schools.com/" target="_blank" rel="noreferrer">W3Schools</a>
